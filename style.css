@@ -1,0 +1,63 @@
+body{
+    background-color: rgb(12, 2, 49);
+   
+}
+.header{
+ padding: 60px;
+ text-align: center;
+ background: scroll;
+ color: wheat;
+ font-size: medium;
+}
+
+h1 {
+    text-align: center;
+    border-color: rebeccapurple ;
+    color: brown;
+    
+}
+p{
+    text-align: center;
+    color:rgb(100, 105, 0);
+    background-color: rgba(0, 0, 0, 0.34);
+    box-shadow: 3cm;
+    border: 4cm;
+}
+button{
+    height: 50;
+    width: 100;
+    align-items: center;
+    color: rgb(3, 6, 139);
+    background-color: rgb(28, 5, 8);
+    box-shadow: inset;
+}
+.box{
+    display: flex;
+    color: brown;
+    }
+    .push{
+    margin-left:auto;
+    }
+  p1{
+    text-align: center;
+    background-color: rgb(2, 9, 41);
+  }
+  p2{
+    text-align: center;
+    background-color: rgb(52, 54, 0);
+  }
+  p3{
+    text-align: center;
+    background-color: rgb(22, 0, 9);
+  }
+  p4{
+    text-align: center;
+    background-color: rgb(39, 10, 0);
+  }
+  .midile{
+    padding: 60px;
+    text-align: center;
+    background: scroll;
+    color: wheat;
+    font-size: medium;
+  }
